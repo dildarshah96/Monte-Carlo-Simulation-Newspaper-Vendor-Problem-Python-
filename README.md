@@ -45,3 +45,14 @@ The program outputs the **average profit** and **maximum profit** across all sim
 Install dependencies with:
 ```bash
 pip install numpy
+
+▶️ Run the Simulation
+Run the script using:
+```bash
+python newspaper_vendor_simulation.py
+
+📊 Concepts Demonstrated
+- Monte Carlo simulation
+- Demand forecasting under uncertainty
+- Probability-based decision analysis
+- Profit optimization for inventory management
