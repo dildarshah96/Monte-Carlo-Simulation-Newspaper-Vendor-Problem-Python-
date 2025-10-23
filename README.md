@@ -57,4 +57,6 @@ python newspaper_vendor_simulation.py
 - Probability-based decision analysis
 - Profit optimization for inventory management
 
-## 🔗 Links - [**View Notebook on Google Colab**][(https://colab.research.google.com/drive/1ngFY94Hm5vMemtPXnZp_qSYOHULZjdiO?usp=sharing)]
+## 🔗 Links 
+- [**View Notebook on Google Colab**](https://colab.research.google.com/drive/1trS-rVw8B-lesMDCklbye7aC0jXVXWAn?usp=sharing)
+
